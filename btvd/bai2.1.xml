@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <name>Company LKD</name>
+    <director>
+        <name>LÊ KHẮC DƯƠNG</name>
+    </director>
+    <address>
+        <street>11, 273/26/7</street>
+        <city>Hà Nội</city>
+        <country>Việt Nam</country>
+    </address>
+    <contact>
+        <phone>0343992074</phone>
+        <email>LKDUONG.DHKL17A2HN@SV.UNETI.EDU.VN</email>
+    </contact>
+    <taxCode>10101010</taxCode>
+</company>

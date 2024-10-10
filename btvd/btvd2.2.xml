@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sinh_vien>
+    <student>
+        <studentid>23174600094</studentid>
+        <name>Lê Khắc Dương</name>
+        <birthyear>2005</birthyear>
+        <class>DHKL17A2HN</class>
+        <gender>Nam</gender>
+    </student>
+    <student>
+        <studentid>23174600094</studentid>
+        <name>LÊ Khắc Dương 2</name>
+        <birthyear>2005</birthyear>
+        <class>DHKL17A20HN</class>
+        <gender>Nữ</gender>
+    </student>
+    <student>
+        <studentid>23174600094</studentid>
+        <name>Lê Khắc Dương</name>
+        <birthyear>2005</birthyear>
+        <class>DHKL17A2200HN</class>
+        <gender>LGBT</gender>
+    </student>
+</sinh_vien>
